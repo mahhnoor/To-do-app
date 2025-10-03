@@ -13,14 +13,6 @@ This project is fully **dockerized** and uses **GitHub Actions CI/CD** to automa
 
 ---
 
-## Screenshots  
-
-### Home Page  
-![Home Page](.C:\Users\S.A LAPTOP\OneDrive\Desktop\todo-app-image.png)  
-
-
----
-
 ## 🛠️ Running Locally
 Clone the repository and run the app:  
 
