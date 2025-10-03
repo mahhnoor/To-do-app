@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Next.js build output
+.next
+out 
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Git
+.git
+.gitignore
