@@ -16,9 +16,8 @@ This project is fully **dockerized** and uses **GitHub Actions CI/CD** to automa
 ## Screenshots  
 
 ### Home Page  
-![Home Page](./screenshots/home.png)  
+![Home Page](.C:\Users\S.A LAPTOP\OneDrive\Desktop\todo-app-image.png)  
 
-*(You can replace this with your actual app screenshots — create a `screenshots/` folder in your repo and add images there.)*  
 
 ---
 
@@ -44,3 +43,8 @@ The workflow:
 
 1. Builds the Docker image
 2. Pushes it to Docker Hub → <your-dockerhub-username>/my-todo-app
+
+Replace:
+
+<your-username> → your GitHub username
+<your-dockerhub-username> → your Docker Hub username
